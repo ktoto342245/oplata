@@ -1,1 +1,1 @@
-web: bash start.sh
+worker: python oplata_new.py
