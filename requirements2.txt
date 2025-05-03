@@ -1,1 +1,1 @@
-python bots.py
+python oplata_new.py
